@@ -1,1 +1,1 @@
-LilyGO TTGO T-Beam - LoRa 868MHz - NEO-6M GPS - ESP32
+LilyGO-TTGO-TBeam-LoRa-868MHz-NEO-6M-GPS-ESP32-noled
